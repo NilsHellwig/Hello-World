@@ -10,5 +10,5 @@ Run the helloworld.py in your favorite Python runtime, such as PyCharm, Google C
 
 ## Requirements
 
-* A pyhon runtime.
+* A python runtime.
 * Supported by every version of python. 
