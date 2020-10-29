@@ -1,6 +1,6 @@
 # helloworld.py
 
-helloworld.py is a simple Python File to print a "Hello World!" String in the console.
+helloworld.py is a simple Python file to print a "Hello World!" String in the console.
 
 <p align="center"><img src="/media/application_view.png" width="80%"></center>
 
